@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+.img-container{
+
+    width: 150px;
+    height: 150px;
+}
+
+.picsum-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+    

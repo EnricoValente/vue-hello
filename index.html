@@ -16,6 +16,10 @@
            <h1>
             {{message}}
            </h1>
+
+           <div v-bind:class="imageContainer">
+            <img :class="imageStyle" v-bind:src="image" alt="">
+           </div>
             
         </div>
 
